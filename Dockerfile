@@ -1,4 +1,4 @@
-FROM python:2.7
+FROM python:2.7.13-jessie
 MAINTAINER Tyler Battle <tbattle@boundlessgeo.com>
 
 ENV TMP /tmp
