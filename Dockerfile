@@ -1,4 +1,4 @@
-FROM python:2.7.15-jessie
+FROM python:2.7.15-stretch
 LABEL maintainer="Tyler Battle <tbattle@boundlessgeo.com>"
 
 ENV TMP /tmp
